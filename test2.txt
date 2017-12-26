@@ -1,0 +1,10 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is 966D-9FA4
+
+ Directory of C:\Dipender\GIT MyProject
+
+26/12/2017  21:39    <DIR>          .
+26/12/2017  21:39    <DIR>          ..
+26/12/2017  21:39                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  83,673,354,240 bytes free
